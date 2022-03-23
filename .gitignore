@@ -1,0 +1,7 @@
+**/.idea
+**/out/production
+**/out/test/JUnit/testClasses
+
+*.MF
+*.iml
+*.log
