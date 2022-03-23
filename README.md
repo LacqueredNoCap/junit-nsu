@@ -10,3 +10,4 @@
 - `testClasses.TimeTest` - класс с тестами, которые работают 1, 10, 100 и 1000 миллисекунд.
 ### Пример запуска через командную строку:
 `java -cp C:\JUnit.jar;C:\Test.jar lacquerednocap.Main 2 testClasses.BeforeAfterTest testClasses.ExceptionTest`
+### Используемая версия языка Java: `openjdk version "11.0.13"`
